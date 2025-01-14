@@ -1,3 +1,2 @@
-# This is an example.
+# This is an example of working with cloned repositories.
 print("This is script 1.")
-print("There are two lines.")
